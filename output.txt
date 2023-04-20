@@ -1,0 +1,6 @@
+The fibonacci sequence of 0 is 0
+The fibonacci sequence of 1 is 1
+The fibonacci sequence of 10 is 55
+Positive values only.
+Please enter valid input.
+The fibonacci sequence of 18 is 2584
